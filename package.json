@@ -14,7 +14,7 @@
     "@vercel/fetch": "^6.2.0",
     "classnames": "^2.3.2",
     "next": "canary",
-    "node-fetch": "^2.6.9",
+    "node-fetch": "^3.3.2",
     "react": "latest",
     "react-dom": "latest"
   },
