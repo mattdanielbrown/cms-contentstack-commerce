@@ -22,7 +22,7 @@
     "@types/node": "17.0.14",
     "@types/react": "latest",
     "autoprefixer": "^10.4.14",
-    "eslint": "^8.36.0",
+    "eslint": "^9.33.0",
     "eslint-config-next": "canary",
     "postcss": "^8.4.21",
     "tailwindcss": "^3.2.7",
