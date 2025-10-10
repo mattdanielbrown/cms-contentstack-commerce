@@ -15,7 +15,7 @@
     "classnames": "^2.3.2",
     "next": "canary",
     "node-fetch": "^2.6.9",
-    "react": "latest",
+    "react": "19.1.1",
     "react-dom": "latest"
   },
   "devDependencies": {
